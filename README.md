@@ -2,9 +2,9 @@
 
   <!-- Инструменты -->
   <section style="margin-bottom: 48px;"> 
-    <h3 style="font-size: 1.4em; font-weight: 500; color: #fff; margin-bottom: 20px;">🛠 Инструменты и технологии</h3> 
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; background: #111; padding: 25px 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(255,255,255,0.05);">
-      <!-- Чёрно-белые иконки: используем фильтр -->
+    <h3 style="font-size: 1.4em; font-weight: 500; color: #fff; margin-bottom: 20px;">🛠 Инструменты и технологии</h3>  
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; background: #111; padding: 25px 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(255,255,255,0.05);"> 
+      <!-- Чёрно-белые иконки -->
       <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" width="50" height="50" style="filter: grayscale(100%) brightness(120%);" />
       <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="50" height="50" style="filter: grayscale(100%) brightness(120%);" />
       <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" width="50" height="50" style="filter: grayscale(100%) brightness(120%);" />
@@ -34,12 +34,11 @@
   <section style="margin-top: 48px;">
     <h3 style="font-size: 1.4em; font-weight: 500; color: #fff; margin-bottom: 20px;">📫 Контакты</h3>
     <div style="display: flex; gap: 20px; justify-content: center;">
-      <!-- Используем чёрно-белые версии бейджей -->
       <a href="https://www.instagram.com/alikhanov.13/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28">
+        <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28">
       </a>
       <a href="https://t.me/alikhanov13" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="28">
+        <img src="https://img.shields.io/badge/Telegram-1a1a1a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" height="28">
       </a>
     </div>
   </section>
