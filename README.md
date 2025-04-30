@@ -1,41 +1,34 @@
-<!-- Инструменты и Языки -->
-<div align="center" style="background: #fff; padding: 30px 0; font-family: 'Segoe UI', sans-serif;">
-  <h3 style="color: #333; font-size: 22px;">🛠 Инструменты и Языки</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" />
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" />
-  </div>
+<div align="center" style="display: flex; flex-direction: column;">
+  <h3>:hammer_and_wrench: Инструменты и язык программирования</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- GitHub Статистика -->
-<div align="center" style="background: #fff; padding: 40px 0;">
-  <h3 style="color: #333; font-size: 22px;">🔥 GitHub Статистика</h3>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alixanov&theme=github_dark" alt="GitHub Profile Summary" />
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alixanov&theme=github_dark" alt="Repos per Language" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alixanov&theme=github_dark" alt="Stats" />
-    </div>
-  </div>
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+  <h2>:fire: Статистика</h2>
+  <a style="display: flex; align-items: center;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alixanov&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+  </a>
+  <a style="display: flex;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alixanov&theme=dark" style="margin-right: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alixanov&theme=dark">
+  </a>
 </div>
 
-<!-- Контакты -->
-<div align="center" style="background: #fff; padding: 40px 0;">
-  <h3 style="color: #333;">📫 Связь со мной</h3>
-  <div style="margin-top: 10px;">
-    <a href="https://www.instagram.com/alikhanov.13/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://t.me/alikhanov13" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- 📫 **Связь со мной**:
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/alikhanov.13/)
+
+[![Instagram](https://img.shields.io/badge/TELEGRAM-red?style=for-the-badge&logo=telegram)](https://t.me/alikhanov13)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
