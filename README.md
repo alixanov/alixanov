@@ -18,16 +18,17 @@
   </section>
 
   <!-- Статистика -->
-  <section style="margin-bottom: 48px;">
-    <h2 style="font-size: 1.6em; font-weight: 500; color: #000; margin-bottom: 20px;">📊 GitHub Статистика</h2>
-    <div style="display: flex; flex-direction: column; gap: 20px; align-items: center; background: #fff; padding: 25px 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alixanov&theme=transparent" alt="GitHub Profile Summary" style="border-radius: 8px; max-width: 100%;"/>
-      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alixanov&theme=transparent" alt="Repos per Language" style="border-radius: 8px;"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alixanov&theme=transparent" alt="GitHub Stats" style="border-radius: 8px;"/>
-      </div>
-    </div>
-  </section>
+
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+  <h2>:fire: Статистика</h2>
+  <a style="display: flex; align-items: center;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alixanov&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+  </a>
+  <a style="display: flex;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alixanov&theme=dark" style="margin-right: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alixanov&theme=dark">
+  </a>
+</div>
 
   <!-- Контакты -->
   <section>
