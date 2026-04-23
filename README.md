@@ -14,11 +14,11 @@
     <p style="font-size: 13px; color: #9CA3AF; letter-spacing: 0.5px; margin: 0;">«Lex est quodcumque notamus» — Закон есть то, что мы записываем</p>
   </div>
 
-  <!-- Инструменты и технологии -->
+  <!-- Инструменты и технологии (ROWS) -->
   <section style="margin-bottom: 56px;">
     <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 24px;">
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
-      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">Instrumentum</span>
+      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">ROWS</span>
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; max-width: 700px; margin: 0 auto;">
@@ -41,7 +41,7 @@
   <section style="margin-bottom: 56px;">
     <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 24px;">
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
-      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">Metrica</span>
+      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">METRICA</span>
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
@@ -63,7 +63,7 @@
   <section>
     <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 24px;">
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
-      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">Contactus</span>
+      <span style="font-size: 12px; font-weight: 500; letter-spacing: 1.5px; color: #3B82F6; text-transform: uppercase;">CONTACTUS</span>
       <div style="width: 32px; height: 1px; background: linear-gradient(90deg, transparent, #3B82F6, transparent);"></div>
     </div>
     <div style="display: flex; gap: 20px; justify-content: center;">
