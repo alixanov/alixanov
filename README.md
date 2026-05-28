@@ -29,7 +29,6 @@
 
   <!-- GitHub Stats -->
   <div style="margin-bottom: 48px;">
-    <h2 style="font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #999; margin: 0 0 12px;">Activity</h2>
     <h3 style="font-size: 26px; font-weight: 700; color: #0a0a0a; margin: 0 0 28px; letter-spacing: -0.02em;">GitHub статистика</h3>
     <div style="display: flex; flex-direction: column; gap: 14px; align-items: center;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alixanov&theme=dracula" alt="Profile" style="border-radius: 16px; box-shadow: 0 2px 16px rgba(0,0,0,0.07); max-width: 100%;"/>
