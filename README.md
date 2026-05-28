@@ -2,7 +2,6 @@
 
   <!-- Header -->
   <div style="margin-bottom: 48px;">
-    <h2 style="font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #999; margin: 0 0 12px;">Stack & Tooling</h2>
     <h1 style="font-size: 36px; font-weight: 700; color: #0a0a0a; margin: 0 0 10px; letter-spacing: -0.02em;">Инструменты и технологии</h1>
     <p style="color: #888; font-size: 15px; margin: 0; font-weight: 400;">То, с чем я работаю каждый день</p>
   </div>
